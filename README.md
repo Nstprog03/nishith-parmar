@@ -52,6 +52,14 @@ I also enjoy designing clean and modern interfaces to create applications that a
 
 ---
 
+## 📈 GitHub Stats  
+
+![Jaykumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nstprog03&show_icons=true&theme=tokyonight)  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nstprog03&layout=compact&theme=tokyonight)](https://github.com/Nstprog03)
+
+---
+
+
 ## 📈 My Stats:
 - **GitHub Contributions:** Regular contributor to open-source and personal projects.  
 - **Upwork Ratings:** 5-star reviews from clients for excellent delivery and communication.  
